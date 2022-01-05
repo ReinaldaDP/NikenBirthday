@@ -1,0 +1,55 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div 
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float: right;
+  padding: 33px 50px;
+  color: hsl(240, 33%, 88%);
+  text-align: right;
+}
+
+.tittle {
+  background-color: black;
+  font: white;
+}
+
+.header {
+  background-color : rgb(24, 22, 21);
+  max-height: 10000;
+}
+
+.main {
+  padding: 200px 40px;
+  text-align: center;
+  color: hsl(240, 24%, 93%);
+}
+
+.copy-container h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.copy-container p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(8, 8, 8);
+  height: 50px;
+  padding-bottom: 20px;
+}
+
+.footer-list li {
+  padding-top: 30px;
+  list-style: none;
+  text-align: center;
+  color:black;
+}
