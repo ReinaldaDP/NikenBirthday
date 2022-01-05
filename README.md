@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <tittle>HAPPY BIRTHDAY</tittle>
-        <link rel="stylesheet"href="project.css">
+        <link href="project.css" rel="stylesheet">
     </head>
     <div class="header">
         <body>
